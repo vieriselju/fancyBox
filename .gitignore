@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 .project
 .settings
+=======
+node_modules/*
+>>>>>>> upstream/master
